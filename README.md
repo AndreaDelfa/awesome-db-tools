@@ -113,6 +113,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [Pgweb](https://github.com/sosedoff/pgweb) - Web-based database browser for PostgreSQL, written in Go and works on macOS, Linux and Windows machines.
 - [phpLiteAdmin](https://www.phpliteadmin.org) - Web-based SQLite database admin tool written in PHP with support for SQLite3 and SQLite2.
 - [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB.
+- [PlatypusDB](https://github.com/platypus-labs/platypus-db) - Fast, small open source SQL client (Rust and Tauri) for PostgreSQL, MySQL, SQL Server, Oracle, SQLite, DuckDB, MongoDB and more, with an MCP server for AI agents.
 - [psequel](http://www.psequel.com) - Provides a clean and simple interface for you to perform common PostgreSQL tasks quickly.
 - [PopSQL](https://popsql.com) - Modern, collaborative SQL editor for your team.
 - [Postico](https://eggerapps.at/postico) - A Modern PostgreSQL Client for the Mac.
